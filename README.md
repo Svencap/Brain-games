@@ -7,12 +7,12 @@
 # Description
 Brain Games are set of mini games launching via console.
 
-[![asciicast](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp.svg)](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp)
 
 ## Installation
 ```
 npm install -g brain-games
 ```
+[![asciicast](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp.svg)](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp)
 
 ## Even
 ```
