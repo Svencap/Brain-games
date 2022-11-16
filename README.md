@@ -1,4 +1,4 @@
-# Frontend
+# Brain-Games
 
 [![](https://github.com/Svencap/frontend-project-lvl1/workflows/My-Github-Action/badge.svg)](https://github.com/Svencap/frontend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/42bb0a6443899b549c4e/maintainability)](https://codeclimate.com/github/Svencap/frontend-project-lvl1/maintainability)
@@ -7,12 +7,12 @@
 # Description
 Brain Games are set of mini games launching via console.
 
-[![asciicast](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp.svg)](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp)
 
 ## Installation
 ```
 npm install -g brain-games
 ```
+[![asciicast](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp.svg)](https://asciinema.org/a/5lmAohrJWu5IEDLIgb8UShmvp)
 
 ## Even
 ```
